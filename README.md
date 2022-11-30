@@ -1,5 +1,5 @@
-# this is a WIP python package to enable firebase auth with graphql django 
-1- download the package and put it in site-packages
+# this is a WIP python package to enable firebase auth with graphql django <br>
+1- download the package and put it in site-packages<br>
 2- add firebase_uid to the user model
 3- add firebase-admin in core app
 4- import it in shortcuts.py
